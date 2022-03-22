@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.f2fac5c0.chunk.js",
-    "main.js.map": "/static/js/main.f2fac5c0.chunk.js.map",
+    "main.js": "/static/js/main.0c5dfa03.chunk.js",
+    "main.js.map": "/static/js/main.0c5dfa03.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ac283672.js",
     "runtime-main.js.map": "/static/js/runtime-main.ac283672.js.map",
-    "static/js/2.086455df.chunk.js": "/static/js/2.086455df.chunk.js",
-    "static/js/2.086455df.chunk.js.map": "/static/js/2.086455df.chunk.js.map",
+    "static/js/2.efaeaa56.chunk.js": "/static/js/2.efaeaa56.chunk.js",
+    "static/js/2.efaeaa56.chunk.js.map": "/static/js/2.efaeaa56.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/2.086455df.chunk.js.LICENSE.txt": "/static/js/2.086455df.chunk.js.LICENSE.txt",
+    "static/js/2.efaeaa56.chunk.js.LICENSE.txt": "/static/js/2.efaeaa56.chunk.js.LICENSE.txt",
+    "static/media/TanuResume.8176e990.pdf": "/static/media/TanuResume.8176e990.pdf",
     "static/media/blog1.7ecbb78c.svg": "/static/media/blog1.7ecbb78c.svg",
     "static/media/blog2.09939351.svg": "/static/media/blog2.09939351.svg",
     "static/media/blog3.6291ee7c.svg": "/static/media/blog3.6291ee7c.svg",
@@ -25,7 +26,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ac283672.js",
-    "static/js/2.086455df.chunk.js",
-    "static/js/main.f2fac5c0.chunk.js"
+    "static/js/2.efaeaa56.chunk.js",
+    "static/js/main.0c5dfa03.chunk.js"
   ]
 }
